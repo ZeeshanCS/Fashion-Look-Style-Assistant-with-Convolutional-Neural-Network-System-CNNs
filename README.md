@@ -1,7 +1,7 @@
 # Virtual-Style-Assistant-With-Convolutional-Neural-Networks-System-CNNs
 
 ## What This Machine Learning Application Does?
-Well, The main motive of this machine learning model/application is to target the modern global fashion industry. In this case study we are going to make a "Virtual Style Assistant" that looks customer Instagram and Facebook images and classify that what fashion category they are wearing either bag, dresses, pants etc. The "Virtual Assistant" can help the retailer to detect and forecast fashion trends and launch target marketing campaigns.
+Well, The purpose of this machine learning model/application is to target the modern global fashion industry. In this case study we are going to make a "Virtual Style Assistant" that looks customer Instagram and Facebook images and classify that what fashion category they are wearing either bag, dresses, pants etc. The "Virtual Assistant" can help the retailer to detect and forecast fashion trends and launch target marketing campaigns.
 
 ## Description
 The global fashion industry is valued at 3-trillion dollars and accounts for the 2% of world DGP. The fashion industry is going to their dramatic transformation by adopting new Computer Vision, Machine Learning, Deep Learning techniques. 
