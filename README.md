@@ -3,7 +3,7 @@
 ## What This Machine Learning Application Does?
 Well, The purpose of this machine learning model/application is to target the modern global fashion industry. In this case study, I have build a "Virtual Style Assistant" that looks customer Instagram and Facebook images and classify that what fashion category they are wearing either bag, dresses, pants etc. The "Virtual Assistant" can help the retailer to detect and forecast fashion trends and launch target marketing campaigns.
 
-## Description
+## Problem Statement & Business Case
 The global fashion industry is valued at 3-trillion dollars and accounts for the 2% of world DGP. The fashion industry is going to their dramatic transformation by adopting new Computer Vision, Machine Learning, Deep Learning techniques. 
 
 In this case study we look at the hypothetical situation, we assume that a fashion retailer hire you to build "Virtual Style Assistant" that looks customer Instagram and Facebook images and classify what fashion category they are wearing either bag, dresses, pants etc. The "Virtual Assistant" can help the retailer to detect and forecast fashion trends and launch target marketing campaigns.
