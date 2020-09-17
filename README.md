@@ -31,6 +31,6 @@ some dependencies should be installed befor run the application.
 
 **scikit-learn 0.23.2**
 
-**tensorflow 2.2.0** Or higher
+**tensorflow 2.2.0** or higher
 
 **Keras 2.4.3**
