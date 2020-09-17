@@ -20,10 +20,17 @@ The Fashion training set consists of 70,000 images divided into 60,000 training 
 some dependencies should be installed befor run the application.
 
 **scipy 1.5.2**
+
 **numpy 1.19.2**
+
 **pandas 1.1.2**
+
 **matplotlib 3.3.2**
+
 **seaborn 0.11.0**
+
 **scikit-learn 0.23.2**
+
 **tensorflow 2.2.0** Or higher
+
 **Keras 2.4.3**
