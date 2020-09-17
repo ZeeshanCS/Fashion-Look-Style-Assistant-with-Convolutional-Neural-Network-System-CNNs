@@ -12,6 +12,18 @@ In this case study we use fashion mnist datasets to build a machine learning mod
 
 Once we have trained deep learning neural network to classify images as human being for-instance a customer love to wear dresses and what category, That means we can do targeting marketing to that specific customer. A prime example what we are going to building "Amazon Look Style Assistance". 
 
-## A Brief Summary Statistics about the datasets
+## A Brief Summary Statistics About The Datasets
 
 The Fashion training set consists of 70,000 images divided into 60,000 training and 10,000 testing samples. Dataset sample consists of 28x28 grayscale image, associated with a label from 10 classes. The 10 classes are as follows: 0 => T-shirt/top 1 => Trouser 2 => Pullover 3 => Dress 4 => Coat 5 => Sandal 6 => Shirt 7 => Sneaker 8 => Bag 9 => Ankle boot Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. This pixel-value is an integer between 0 and 255.
+
+## Prerequisites To Run This application
+some dependencies should be installed befor run the application.
+
+**scipy 1.5.2**
+**numpy 1.19.2**
+**pandas 1.1.2**
+**matplotlib 3.3.2**
+**seaborn 0.11.0**
+**scikit-learn 0.23.2**
+**tensorflow 2.2.0** Or higher
+**Keras 2.4.3**
